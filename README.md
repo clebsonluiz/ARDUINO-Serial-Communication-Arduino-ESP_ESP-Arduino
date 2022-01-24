@@ -11,12 +11,12 @@ Projeto simples feito com intuido de aprender mais sobre sistemas embarcados e s
 
 Para gravar no esp-01 usando os componentes, é necessário colocar o esp em modo de gravação, assim é só enviar o código referente ao ESP8266.
 
-![](/_imgs/Robocore ESP 01 Modo de Gravação.jpeg)
+![](/_imgs/Robocore_ESP_01_Modo_de_Gravação.jpeg)
 
 Para que o esp-01 execute o código gravado, é necessário colocar o esp em modo de leitura tirando a conexão com os pinos GPIO0 com o GND. Para funcionar deve-se gravar o codigo referente ao arduino uno para o arduino.
 
-![](/_imgs/Robocore ESP 01 Modo de Leitura.jpeg)
+![](/_imgs/Robocore_ESP_01_Modo_de_Leitura.jpeg)
 
 * Sketch usada para o exemplo de envio de dados do dht11 para internet.
 
-![](/_imgs/Robocore ESP 01 Modo de Gravação 2.jpeg)
+![](/_imgs/Robocore_ESP_01_Modo_de_Gravação_2.jpeg)
